@@ -1,0 +1,3 @@
+1.we first created a server file 
+2.then we run terminal and npm inti -y
+this will install the package .json file , next we want to install our lib , which are npm install , cors , dotenv , express , nodemon openai , (all without commas)
